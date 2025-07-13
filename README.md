@@ -1,16 +1,31 @@
-## Hi there 👋
+# سلام، من معصومه اشرفی هستم 👋
 
-<!--
-**masoumeh-ashrafi-dev/masoumeh-ashrafi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  من استاد مهندسی نرم‌افزار و پژوهشگر علاقه‌مند به حوزه‌های بهینه‌سازی وب و کاربرد هوش مصنوعی هستم. اشتیاق من تدریس مفاهیم پیچیده نرم‌افزار و تحقیق بر روی راهکارهای هوشمند برای حل مسائل دنیای واقعی است.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 در حال حاضر روی این موارد کار می‌کنم:
+- تحقیق بر روی بهینه‌سازی سئو با استفاده از الگوریتم‌های فراابتکاری.
+- تدریس دروس طراحی وب و برنامه‌نویسی پیشرفته.
+- توسعه یک وب اپلیکیشن شخصی برای مدیریت مقالات علمی.
+
+---
+
+### 🌱 در حال یادگیری:
+- مدل‌های زبانی بزرگ (LLMs) و کاربرد آن‌ها در تولید محتوا.
+- فریمورک‌های جدید جاوااسکریپت.
+
+---
+
+###  skills:
+- **Languages:** Python, JavaScript, C#, SQL, HTML, CSS
+- **Technologies:** Node.js, Git, SEO, Web Performance, Machine Learning
+- **Other:** Academic Writing, Research, Lecturing
+
+---
+
+### 📫 راه‌های ارتباط با من
+- **LinkedIn:** [linkedin.com/in/masoumeh-ashrafi](https://www.linkedin.com/in/masoumeh-ashrafi)
+- **Google Scholar:**[https://scholar.google.com/citations?user=PCfQ8hwAAAAJ]
